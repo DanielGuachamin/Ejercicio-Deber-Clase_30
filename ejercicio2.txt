@@ -1,0 +1,5 @@
+Vector origninal: 
+-2 | 5 | 1 | 8 | -9 | 3 | 6 | 
+Vector ordenado: 
+-9 | -2 | 1 | 3 | 5 | 6 | 8 | 
+El elemento 6 fue hallado en la posicion: 6
